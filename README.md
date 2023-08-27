@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido como projeto final para a disciplica de programação Web, que ocorreu no oitavo semestre do curso de ciência da computação na Universidade Estadual da Paraíba. Ele é um CRUD de alunos, professores, endereços e projetos acadêmicos, o front-end foi feito com a utilização do React.js, e o backend foi feito com a utilização do Springboot Java.
